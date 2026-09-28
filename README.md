@@ -8,6 +8,19 @@
 
 ---
 
+---
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/JackelynQuino)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/JackelynLamitQuino)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@Jacky)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jackelynlamitquino@gmail.com)
+
+</div>
+---
+
 ## 👩‍💻 About Me
 
 🎓 I'm currently studying **Bachelor of Science in Information Systems (BSIS)**
