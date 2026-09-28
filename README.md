@@ -15,13 +15,14 @@
 Name: Jackelyn L. Quino  
 Role: Aspiring IT Professional & Developer  
 Education: BSIS (Bachelor of Science in Information Systems) Student  
-Address:** Midsalip, Zamboanga del Sur, Philippines  
+Address: Datagan, Sominot Zamboanga del Sur, Philippines  
 Campus: ZDSPGC – Midsalip Campus  
 
+---
 
-🎓 I'm currently studying **Bachelor of Science in Information Systems (BSIS)**
+🎓 I'm currently studying Bachelor of Science in Information Systems (BSIS)
 
-🏫 **ZDSPGC – Midsalip Campus**
+🏫 ZDSPGC – Midsalip Campus
 
 💻 Interested in Web Development and Information Systems
 
