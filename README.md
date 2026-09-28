@@ -41,8 +41,10 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jackelynlamitquino@gmail.com)
 
 </div>
+
 ---
- 🛠️ Skills & Technologies
+ 
+🛠️ Skills & Technologies
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,6 +52,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
 📊 GitHub Stats
 
 <div align="center">
@@ -61,7 +64,9 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=qjackelynl-cpu&theme=tokyonight&hide_border=false)
 
 </div>
+
 ---
+
 💻 Tech Stack
 
 <div align="center">
@@ -78,6 +83,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
+
 ---
 
  🎯 My Goal
