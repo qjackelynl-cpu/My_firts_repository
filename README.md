@@ -23,6 +23,13 @@
 ✨ *Learn. Build. Improve.*
 
 ---
+🗣️ Most Used Languages
+
+![Subanen](https://img.shields.io/badge/Subanen-🌿-brightgreen)
+![Cebuano](https://img.shields.io/badge/Cebuano-🗣️-blue)
+![Tagalog](https://img.shields.io/badge/Tagalog-🇵🇭-orange)
+![English](https://img.shields.io/badge/English-🌎-red)
+
 ---
  🌐 Connect With Me
 
