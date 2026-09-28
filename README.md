@@ -2,7 +2,7 @@
 
  ZDSPGC MIDSALIP CAMPUS 🎓
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;I'm+Jackelyn+L.+Quino;Information+Systems+Student;BSIS+Student+%7C+Future+IT+Professional;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=6000&color=00C7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;I'm+Jackelyn+L.+Quino;Information+Systems+Student;BSIS+Student+%7C+Future+IT+Professional;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
 
 </div>
 
